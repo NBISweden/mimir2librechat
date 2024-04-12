@@ -1,0 +1,6 @@
+*.sqlite3
+*.sql
+*.sqlite
+.*.sw*
+venv/
+mongosh-2.2.3-linux-x64*
